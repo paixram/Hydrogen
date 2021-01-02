@@ -1,0 +1,7 @@
+Block printer{
+	if(3 < 4) {
+		println("Im a block")
+	}
+}
+
+printer?
