@@ -106,6 +106,6 @@ A block is called with the `name of the block` and the `?` sign in front with th
 ## Experimentals
 - `STOP` keyword `Working`
 - `Block` Blocks `Working`
-- `String` String data Type
+- `String` String data Type, `SUCCESS✓`
 - `functions` functions return value and parameters type. `SUCCESS✓`
 - `macros` a macros implementation
