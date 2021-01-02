@@ -7,7 +7,7 @@ Hydrogen is a programming language designed for the versatility and ease that ca
 ---
 
 ### Version:
-Beta 0.0.2
+Beta 0.0.1
 
 ### Warning:
 Hydrogen is still under development, it is just in its early stages, it is almost useless.
@@ -103,33 +103,9 @@ pritnHelloWorld?
 ```
 A block is called with the `name of the block` and the `?` sign in front with this block call everything in your body is going to run as many times as you call it, but remember it has no return value
 
-- <h2>Macros</h2> Experimental
-Macros are used to declare some static and dynamic value, it is declared with the reserved word `def` followed by the `name` and then the `value` that is dynamic the user does not indicate the type that the macro will be. Example:
-```hg
-def quality 1024
-
-println(quality)
-## OUTPUT: 1024
-
-Rules:
-def xd 23
-def xd 46  ## ERROR: Unable to shade a macros.
-
-dec xd int -> 345 ## ERROR: You cannot declare a variable with the name of a macro
-```
-
-The macros in the future will have a complement that will be the macro conditionals. Example:
-```
-def mod 234
-
-ifdef mod {
-    println("mod is defined")
-}
-```
-
 ## Experimentals
 - `STOP` keyword `Working`
-- `Block` Blocks `SUCCESS✓`
+- `Block` Blocks `Working`
 - `String` String data Type, `SUCCESS✓`
 - `functions` functions return value and parameters type. `SUCCESS✓`
-- `macros` a macros implementation
+- `macros` a macros implementation `Working`
