@@ -12,7 +12,7 @@ Beta 0.0.1
 ### Warning:
 Hydrogen is still under development, it is just in its early stages, it is almost useless.
 
-`Now you Now available for windows and linux arch amd64`
+`Now available for windows and linux arch amd64`
 
 ### How to use:
 - Install the executable file
