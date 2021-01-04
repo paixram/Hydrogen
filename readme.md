@@ -123,7 +123,12 @@ ifdef mod {
 }
 ```
 
-## Experimentals
+## New Experimentals
+- `imports` import files and functions
+- `loops` loops `for` `while`
+- `macros complements` a complements for macros (ifdef)
+
+## Experimentals (WORKING)
 - `STOP` keyword `Working`
 - `Block` Blocks `Working`
 - `String` String data Type, `SUCCESS✓`
