@@ -2,7 +2,7 @@
 
 Hydrogen is a programming language designed for the versatility and ease that can offer static data types and a new concept called BLOCKS.
 
-#WARNING: (Building the compiler)
+# WARNING: (Building the compiler)
 
 `Interprete not compiled`
 
