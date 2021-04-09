@@ -1,0 +1,9 @@
+Block print{
+    if (3 < 4) {
+        STOP;
+    }
+
+    println("Dont Stop")
+}
+
+print?

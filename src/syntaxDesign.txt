@@ -1,0 +1,32 @@
+## Comentario
+
+// Types
+int
+string
+float
+bool
+
+
+// Vatriable declaration
+var steep int -> 34;
+
+// Functions define
+fn main(x int) <- int {
+    return 23
+};
+
+Block createFile {
+    fn xd(x string) <- string {
+        return "sdffsdfsd";
+    }
+}
+
+if (3 < 5) {
+     ?createFile    
+}else {
+      5
+}
+
+
+
+
